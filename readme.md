@@ -8,13 +8,13 @@ O projeto foi realizado seguindo diversos videos do curso DevSamurai, este tem c
 
 O aplicativo tem como funcilidades:
 
-  1. Geração de Senhas Aleatórias: O gerador de senhas utiliza um algoritmo seguro para criar senhas aleatórias. As senhas geradas são compostas por caracteres alfanuméricos e podem incluir caracteres especiais, como símbolos e pontuações.
+1.  Geração de Senhas Aleatórias: O gerador de senhas utiliza um algoritmo seguro para criar senhas aleatórias. As senhas geradas são compostas por caracteres alfanuméricos e podem incluir caracteres especiais, como símbolos e pontuações.
 
-  2. Comprimento Personalizável: É possível especificar o comprimento desejado para a senha. Você pode escolher um valor entre um mínimo e um máximo estabelecido pelo gerador de senhas.
+2.  Comprimento Personalizável: É possível especificar o comprimento desejado para a senha. Você pode escolher um valor entre um mínimo e um máximo estabelecido pelo gerador de senhas.
 
-  3.Personalização de Caracteres: O gerador de senhas permite personalizar os tipos de caracteres utilizados na geração. Por exemplo, você pode optar por gerar senhas apenas com letras maiúsculas e números, ou incluir caracteres especiais.
+3.  Personalização de Caracteres: O gerador de senhas permite personalizar os tipos de caracteres utilizados na geração. Por exemplo, você pode optar por gerar senhas apenas com letras maiúsculas e números, ou incluir caracteres especiais.
 
-  4.Copiar para a Área de Transferência: Para facilitar o uso das senhas geradas, o gerador oferece a opção de copiar a senha diretamente para a área de transferência do seu dispositivo. Isso permite que você cole facilmente a senha em qualquer campo ou aplicativo.
+4.  Copiar para a Área de Transferência: Para facilitar o uso das senhas geradas, o gerador oferece a opção de copiar a senha diretamente para a área de transferência do seu dispositivo. Isso permite que você cole facilmente a senha em qualquer campo ou aplicativo.
 
 # 👾 Como Utilizar
 
